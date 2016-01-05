@@ -1,0 +1,28 @@
+name: Almost Sometimes
+favicon: null
+layout_spectrum: 0.4328685107175261
+typography_spectrum: 0.8708705261815339
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.43442554376088083
+  lightness: 0.3579018011223525
+  saturation: 0.9345929350238293
+  rhythmicContrast: 0.7819231359753758
+purpose: []
